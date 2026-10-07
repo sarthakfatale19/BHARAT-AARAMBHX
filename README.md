@@ -1,4 +1,4 @@
-# BHARAT 🇮🇳 — India, In Its Own Words
+# BHARAT — India, In Its Own Words
 
 > **"BUILD TECHNOLOGY AROUND CULTURE. NOT CULTURE AROUND TECHNOLOGY."**
 >
